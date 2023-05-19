@@ -16,5 +16,5 @@ public class Employee {
     private UUID id;
     private String name;
     private EmployeeRole role;
-    private EmployeeRole designation;
+    private String designation;
 }
