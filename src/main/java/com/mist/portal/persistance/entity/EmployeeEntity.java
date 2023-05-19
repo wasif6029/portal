@@ -14,7 +14,7 @@ import org.hibernate.type.SqlTypes;
 
 import java.util.UUID;
 
-@Entity(name = "Teachers")
+@Entity(name = "Employees")
 @Accessors(chain = true)
 @Getter
 @Setter
